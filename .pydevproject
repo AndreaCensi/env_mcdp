@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?><pydev_project>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">env_fault</pydev_property>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python 2.7</pydev_property>
+<pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+<path>/${PROJECT_DIR_NAME}/src/mocdp/src</path>
+<path>/${PROJECT_DIR_NAME}/src/compmake/src</path>
+<path>/${PROJECT_DIR_NAME}/src/conf_tools/src</path>
+<path>/${PROJECT_DIR_NAME}/src/contracts/src</path>
+<path>/${PROJECT_DIR_NAME}/src/geometry/src</path>
+<path>/${PROJECT_DIR_NAME}/src/procgraph/src</path>
+<path>/${PROJECT_DIR_NAME}/src/quickapp/src</path>
+<path>/${PROJECT_DIR_NAME}/src/reprep/src</path>
+<path>/${PROJECT_DIR_NAME}/src/astatsa/src</path>
+<path>/${PROJECT_DIR_NAME}/src/boot_agents/src</path>
+<path>/${PROJECT_DIR_NAME}/src/boot_olympics/src</path>
+<path>/${PROJECT_DIR_NAME}/src/latex_gen/src</path>
+<path>/${PROJECT_DIR_NAME}/src/ros_node_utils/src</path>
+<path>/${PROJECT_DIR_NAME}/src/rosstream2boot/src</path>
+<path>/${PROJECT_DIR_NAME}/src/vehicles/src</path>
+<path>/${PROJECT_DIR_NAME}/src/yc1304/src</path>
+<path>/${PROJECT_DIR_NAME}/src/rawlogs/src</path>
+<path>/${PROJECT_DIR_NAME}/src/decent_logs/src</path>
+<path>/${PROJECT_DIR_NAME}/src/comptests/src</path>
+<path>/${PROJECT_DIR_NAME}/src/system_cmd/src</path>
+<path>/${PROJECT_DIR_NAME}/src/memos/src</path>
+<path>/${PROJECT_DIR_NAME}/src/ublocks/src</path>
+<path>/${PROJECT_DIR_NAME}/src/diffeo/src</path>
+<path>/${PROJECT_DIR_NAME}/src/diffeoplan/src</path>
+<path>/${PROJECT_DIR_NAME}/src/videolang/src</path>
+<path>/${PROJECT_DIR_NAME}/src/icra15trailer/src</path>
+<path>/${PROJECT_DIR_NAME}/src/procgraph_optimize/src</path>
+<path>/${PROJECT_DIR_NAME}/src/gvgen</path>
+<path>/${PROJECT_DIR_NAME}/src/neuro-sysid</path>
+</pydev_pathproperty>
+</pydev_project>
