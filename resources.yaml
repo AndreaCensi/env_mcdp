@@ -96,9 +96,9 @@
 
 
 
-- dir: src/yc1304
-  url: git@github.com:AndreaCensi/yc1304.git
-  branch: env_fault
+# - dir: src/yc1304
+#   url: git@github.com:AndreaCensi/yc1304.git
+#   branch: env_fault
 
 # - dir: src/caltech_youbot
 #   url: git@github.com:AndreaCensi/caltech_youbot.git
@@ -162,9 +162,9 @@
 #   url: git@github.com:AndreaCensi/vehicles_murraylab.git
 #   branch: env_fault
   
-# - dir: src/memos
-#   url: git@github.com:AndreaCensi/memos.git
-#   branch: env_fault
+- dir: src/memos
+  url: git@github.com:AndreaCensi/memos.git
+  branch: env_fault
 
 # - dir: src/diffeo
 #   url: git@github.com:AndreaCensi/diffeo.git
