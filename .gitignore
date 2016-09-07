@@ -2,7 +2,6 @@ environment.sh
 deploy
 .compmake_history.txt
 out-compmake-tests
-src/memos
 .apdisk
 out
 workspace/1406-heli/tmp-andrea
@@ -22,8 +21,5 @@ src/multyvac-0.4.9
 src/multyvac-0.4.9.tar.gz
 ./compmake.rc
 ./config.mk
-./config.mk
-./compmake.rc
-initialize_environment.sh
 .ipynb_checkpoints
 .idea
