@@ -23,3 +23,6 @@ src/multyvac-0.4.9.tar.gz
 ./config.mk
 .ipynb_checkpoints
 .idea
+deploy.linux
+deploy.old
+deploy_pristine

@@ -12,13 +12,7 @@
 <path>/${PROJECT_DIR_NAME}/src/quickapp/src</path>
 <path>/${PROJECT_DIR_NAME}/src/system_cmd/src</path>
 <path>/${PROJECT_DIR_NAME}/src/reprep/src</path>
-<path>/${PROJECT_DIR_NAME}/src/mcdp/examples/example-drone1/models/drone2.0</path>
 <path>/${PROJECT_DIR_NAME}/src/memos/src</path>
-<path>/${PROJECT_DIR_NAME}/src/mcdp/examples-drone1/models/batteries.v1.mcdplib</path>
-<path>/${PROJECT_DIR_NAME}/src/mcdp/examples-drone1/models/droneC_cost.v1.mcdplib</path>
-<path>/${PROJECT_DIR_NAME}/src/mcdp/minimality_game/scripts</path>
-<path>/${PROJECT_DIR_NAME}/src/mcdp/libraries/examples-devel/unittests/basic.mcdplib</path>
-<path>/${PROJECT_DIR_NAME}/src/mcdp/libraries/examples/uav_energetics/droneD_complete_templates.mcdplib</path>
 <path>/${PROJECT_DIR_NAME}/deploy/lib/python2.7/site-packages</path>
 </pydev_pathproperty>
 </pydev_project>
