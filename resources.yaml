@@ -24,6 +24,9 @@
 - dir: src/mcdp
   url: git@github.com:AndreaCensi/mcdp.git
 
+- dir: src/mcdp_user_test1
+  url: git@github.com:AndreaCensi/mcdp_user_test1.git
+
 - dir: src/mcdp-gh-pages
   url: git@github.com:AndreaCensi/mcdp.git
   branch: gh-pages
@@ -44,7 +47,6 @@
   url: git@github.com:AndreaCensi/quickapp.git
   branch: mcdp
 
-  
 - dir: src/memos
   url: git@github.com:AndreaCensi/memos.git
   branch: env_fault
