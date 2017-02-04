@@ -9,9 +9,9 @@
   url: git@github.com:AndreaCensi/system_cmd.git
   branch: mcdp
 
-- dir: src/gvgen
-  url: git@github.com:AndreaCensi/gvgen.git
-  branch: mcdp
+  #- dir: src/gvgen
+  #url: git@github.com:AndreaCensi/gvgen.git
+  #branch: mcdp
 
 - dir: src/compmake
   url: git@github.com:AndreaCensi/compmake.git
@@ -21,13 +21,6 @@
   url: git@github.com:AndreaCensi/comptests.git
   branch: mcdp
 
-- dir: src/mcdp
-  url: git@github.com:AndreaCensi/mcdp.git
-
-- dir: src/mcdp-gh-pages
-  url: git@github.com:AndreaCensi/mcdp.git
-  branch: gh-pages
- 
 - dir: src/reprep
   url: git@github.com:AndreaCensi/reprep.git
   branch: mcdp
@@ -44,9 +37,13 @@
   url: git@github.com:AndreaCensi/quickapp.git
   branch: mcdp
 
-  
-- dir: src/memos
-  url: git@github.com:AndreaCensi/memos.git
-  branch: env_fault
+  #- dir: src/memos
+  #url: git@github.com:AndreaCensi/memos.git
+  #branch: env_fault
 
+- dir: mcdp-user-db
+  url: git@github.com:AndreaCensi/mcdp-user-db.git
 
+- dir: src/mcdp
+  url: git@github.com:AndreaCensi/mcdp.git
+ 
