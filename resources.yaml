@@ -21,6 +21,8 @@
   url: git@github.com:AndreaCensi/comptests.git
   branch: mcdp
 
+
+
 - dir: src/reprep
   url: git@github.com:AndreaCensi/reprep.git
   branch: mcdp
@@ -46,4 +48,6 @@
 
 - dir: src/mcdp
   url: git@github.com:AndreaCensi/mcdp.git
- 
+
+- dir: src/mcdp-user-test1 
+  url: git@github.com:AndreaCensi/mcdp_user_test1.git
