@@ -26,4 +26,8 @@ src/multyvac-0.4.9.tar.gz
 deploy.linux
 deploy.old
 deploy_pristine
+
 attic
+src/mcdp-gh-pages/
+src/mcdp-user-db/
+src/memos/
