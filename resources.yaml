@@ -49,5 +49,8 @@
 - dir: src/mcdp
   url: git@github.com:AndreaCensi/mcdp.git
 
-- dir: src/mcdp-user-test1 
+- dir: src/mcdp-manual
+  url: git@github.com:AndreaCensi/mcdp-manual.git
+
+- dir: src/mcdp-user-test1
   url: git@github.com:AndreaCensi/mcdp_user_test1.git
