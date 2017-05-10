@@ -12,7 +12,7 @@
 <path>/${PROJECT_DIR_NAME}/src/quickapp/src</path>
 <path>/${PROJECT_DIR_NAME}/src/system_cmd/src</path>
 <path>/${PROJECT_DIR_NAME}/src/reprep/src</path>
-<path>/${PROJECT_DIR_NAME}/src/memos/src</path>
 <path>/${PROJECT_DIR_NAME}/deploy/lib/python2.7/site-packages</path>
+<path>/${PROJECT_DIR_NAME}/src/rulebooks/src</path>
 </pydev_pathproperty>
 </pydev_project>
