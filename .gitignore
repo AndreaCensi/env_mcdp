@@ -31,3 +31,4 @@ attic
 src/mcdp-gh-pages/
 src/mcdp-user-db/
 src/memos/
+.DS_Store
