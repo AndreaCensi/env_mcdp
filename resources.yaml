@@ -1,6 +1,10 @@
 - dir: .
   url: git@github.com:AndreaCensi/env_mcdp.git
 
+
+- dir: src/patience
+  url: git@github.com:AndreaCensi/patience.git
+
 - dir: src/contracts
   url: git@github.com:AndreaCensi/contracts.git
   branch: mcdp
