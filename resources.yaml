@@ -1,6 +1,10 @@
 - dir: .
   url: git@github.com:AndreaCensi/env_mcdp.git
 
+
+- dir: src/patience
+  url: git@github.com:AndreaCensi/patience.git
+
 - dir: src/contracts
   url: git@github.com:AndreaCensi/contracts.git
   branch: mcdp
@@ -41,7 +45,7 @@
   #url: git@github.com:AndreaCensi/memos.git
   #branch: env_fault
 
-- dir: mcdp-user-db
+- dir: src/mcdp-user-db
   url: git@github.com:AndreaCensi/mcdp-user-db.git
 
 - dir: src/mcdp
@@ -58,3 +62,30 @@
 
 - dir: src/patience
   url: git@github.com:AndreaCensi/patience
+
+
+- dir: src/duckietown.mit.edu
+  url: git@github.com:duckietown/website.git
+  branch: gh-pages
+- dir: src/duckuments
+  url: git@github.com:duckietown/duckuments.git
+- dir: src/intercooler-js
+  url: git@github.com:LeadDyno/intercooler-js.git
+- dir: src/mcdp-user-db
+  url: git@github.com:AndreaCensi/mcdp-user-db.git
+  branch: dorothy
+- dir: src/mcdp-user-test1
+  url: git@github.com:AndreaCensi/mcdp_user_test1.git
+- dir: src/rulebooks
+  url: git@github-nutonomy:nutonomy/nuRules.git
+- dir: src/duckuments/duckuments-dist
+  url: git@github.com:duckietown/duckuments.git
+  branch: gh-pages
+- dir: src/rulebooks/releases
+  url: git@github-nutonomy:nutonomy/nuRules.git
+  branch: releases
+- dir: src/rulebooks/docs/hindley-milner-python
+  url: git@github.com:nuAndrea/hindley-milner-python.git
+  branch: experiments
+- dir: src/mcdp-manual/manual.mcdplib/commons
+  url: git@github.com:AndreaCensi/writingtools.git
