@@ -85,3 +85,9 @@
   branch: experiments
 - dir: src/mcdp-manual/manual.mcdplib/commons
   url: git@github.com:AndreaCensi/writingtools.git
+
+
+# tmp
+
+- dir: src/procgraph
+  url: git@github.com:AndreaCensi/procgraph.git
