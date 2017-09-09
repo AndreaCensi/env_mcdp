@@ -57,7 +57,11 @@
 - dir: src/mcdp_user_test1
   url: git@github.com:AndreaCensi/mcdp_user_test1.git
 
+- dir: src/fancymath
+  url: git@github.com:AndreaCensi/fancymath.git
 
+- dir: src/patience
+  url: git@github.com:AndreaCensi/patience
 
 
 - dir: src/duckietown.mit.edu

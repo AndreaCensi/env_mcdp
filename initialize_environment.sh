@@ -3,6 +3,11 @@ set -e
 config=environment.sh
 tag=MCDP
 
+echo python: `which python`
+echo pip: `which pip`
+echo virtualenv: `which virtualenv`
+
+
 #CURPYTHON=`which python`/..
 
 # TODO: add in PATH the current path for python
