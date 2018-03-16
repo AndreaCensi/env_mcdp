@@ -14,6 +14,48 @@
 	<natures>
 		<nature>org.python.pydev.pythonNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>comptests</name>
+			<type>2</type>
+			<location>/data/work/vmware-michela-shared/comptests</location>
+		</link>
+		<link>
+			<name>contracts</name>
+			<type>2</type>
+			<location>/data/work/vmware-michela-shared/contracts</location>
+		</link>
+		<link>
+			<name>nuGTA</name>
+			<type>2</type>
+			<location>/Volumes/1710-dorothy-nuts/nuGTA</location>
+		</link>
+		<link>
+			<name>nuToy</name>
+			<type>2</type>
+			<location>/Volumes/1710-dorothy-nuts/nuToy</location>
+		</link>
+		<link>
+			<name>procgraph</name>
+			<type>2</type>
+			<location>/data/work/vmware-michela-shared/procgraph</location>
+		</link>
+		<link>
+			<name>quickapp</name>
+			<type>2</type>
+			<location>/data/work/vmware-michela-shared/quickapp</location>
+		</link>
+		<link>
+			<name>src/nuSpeak</name>
+			<type>2</type>
+			<location>/Volumes/1710-dorothy-nuts/nuSpeak</location>
+		</link>
+		<link>
+			<name>src/rulebooks</name>
+			<type>2</type>
+			<location>/Volumes/1710-dorothy-nuts/rulebooks</location>
+		</link>
+	</linkedResources>
 	<filteredResources>
 		<filter>
 			<id>1486670422565</id>
