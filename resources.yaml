@@ -45,7 +45,7 @@
   #url: git@github.com:AndreaCensi/memos.git
   #branch: env_fault
 
-- dir: src/mcdp-user-db
+- dir: mcdp-user-db
   url: git@github.com:AndreaCensi/mcdp-user-db.git
 
 - dir: src/mcdp
@@ -57,11 +57,7 @@
 - dir: src/mcdp_user_test1
   url: git@github.com:AndreaCensi/mcdp_user_test1.git
 
-- dir: src/fancymath
-  url: git@github.com:AndreaCensi/fancymath.git
 
-- dir: src/patience
-  url: git@github.com:AndreaCensi/patience
 
 
 - dir: src/duckietown.mit.edu
@@ -89,9 +85,3 @@
   branch: experiments
 - dir: src/mcdp-manual/manual.mcdplib/commons
   url: git@github.com:AndreaCensi/writingtools.git
-
-
-# tmp
-
-- dir: src/procgraph
-  url: git@github.com:AndreaCensi/procgraph.git
